@@ -1,0 +1,27 @@
+{
+  "name": "projekt-js",
+  "version": "1.0.0",
+  "description": "javasc",
+  "main": "index.js",
+  "scripts": {
+    "test": "test1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kowalczykm/zadanie8-2.git"
+  },
+  "keywords": [
+    "kodilla"
+  ],
+  "author": "marek",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kowalczykm/zadanie8-2/issues"
+  },
+  "homepage": "https://github.com/kowalczykm/zadanie8-2#readme",
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-contrib-jshint": "^1.1.0",
+    "grunt-sass": "^2.0.0"
+  }
+}
